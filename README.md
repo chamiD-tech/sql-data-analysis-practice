@@ -28,9 +28,9 @@ analysis, including joins and aggregations.
 ## Project Structure
 sql-data-analysis-practice/
 - data
-- --retail_sales.csv
+  --retail_sales.csv
 │ └── customers.csv
-└── sql/
+- sql
 ├── 01_basic_queries.sql
 ├── 02_aggregations.sql
 ├── 03_joins.sql
