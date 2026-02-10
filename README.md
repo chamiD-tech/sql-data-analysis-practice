@@ -27,12 +27,12 @@ analysis, including joins and aggregations.
 
 ## Project Structure
 sql-data-analysis-practice/
-- data
-  --retail_sales.csv
-│ └── customers.csv
-- sql
-├── 01_basic_queries.sql
-├── 02_aggregations.sql
-├── 03_joins.sql
-└── 04_business_questions.sql
+- ***data**
+  - retail_sales.csv
+  - customers.csv
+- **sql**
+  - 01_basic_queries.sql
+  - 02_aggregations.sql
+  - 03_joins.sql
+  - 04_business_questions.sql
 
