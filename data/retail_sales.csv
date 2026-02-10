@@ -1,0 +1,16 @@
+OrderID,CustomerID,Product,Category,Region,Quantity,UnitPrice,OrderDate
+1,101,Laptop,Electronics,East,2,900,2024-01-05
+2,102,Desk,Furniture,West,1,450,2024-01-06
+3,103,T-Shirt,Clothing,East,5,20,2024-01-06
+4,101,Headphones,Electronics,North,3,120,2024-01-07
+5,104,Chair,Furniture,South,2,300,2024-01-08
+6,102,Monitor,Electronics,East,1,250,2024-01-09
+7,105,Jacket,Clothing,West,2,80,2024-01-10
+8,106,Table,Furniture,North,1,600,2024-01-10
+9,103,Shoes,Clothing,South,3,70,2024-01-11
+10,104,Smartphone,Electronics,West,1,700,2024-01-12
+11,105,Monitor,Electronics,West,2,300,2024-01-15
+12,106,Desk,Furniture,South,2,450,2024-01-16
+13,107,T-Shirt,Clothing,North,3,20,2024-01-16
+14,108,Headphones,Electronics,West,5,120,2024-01-17
+15,109,Chair,Furniture,South,2,300,2024-01-18
