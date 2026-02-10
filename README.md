@@ -27,7 +27,7 @@ analysis, including joins and aggregations.
 
 ## Project Structure
 sql-data-analysis-practice/
-- ***data**
+- **data**
   - retail_sales.csv
   - customers.csv
 - **sql**
