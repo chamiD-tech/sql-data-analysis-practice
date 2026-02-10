@@ -35,4 +35,18 @@ sql-data-analysis-practice/
   - 02_aggregations.sql
   - 03_joins.sql
   - 04_business_questions.sql
+---
+ ## Tools Used
+
+- SQL (ANSI-style)
+- CSV files as data sources
+
+---
+
+## Notes
+
+- The project focuses on clarity and analytical thinking rather than database
+  optimisation or advanced SQL features.
+- Queries are written to be readable and easy to follow.
+  
 
